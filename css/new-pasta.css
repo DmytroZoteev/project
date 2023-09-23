@@ -117,7 +117,7 @@ a:hover{
     color: var(--buttons-hover-color);
 }
 
-/* @media(min-width:1000px){
+@media(min-width:1000px){
     .menu-container{
         display: flex;
         flex-wrap: wrap;
@@ -133,4 +133,4 @@ a:hover{
     object-fit: cover;
     background-size: cover;
     }
-} */
+}
